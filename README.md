@@ -6,7 +6,7 @@
 - 🏠 I live in Pathum Thani, Thailand
 - 📖 I'm a sophomore student at SIT KMUTT
 - 📚 I'm also a senior student at Management , B.B.A. ,RU
-- 🔭 I’m looking for internship in QA/Tester DevOps and Business Analyst
+- 🔭 I’m looking for internship in QA/Tester DevOps or Business Analyst
 - 🌱 I’m currently learning at Backend developer
 - 📫 contact me via **mookies2004@gmail.com**
 
