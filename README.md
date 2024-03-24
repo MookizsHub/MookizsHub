@@ -7,7 +7,6 @@
 - 📖 I'm a sophomore student at SIT KMUTT
 - 📚 I'm also a senior student at Management , B.B.A. ,RU
 - 🔭 I’m looking for internship in Business Analyst
-- 🌱 I’m currently learning at Backend developer
 - 📫 contact me via **mookies2004@gmail.com**
 
 
