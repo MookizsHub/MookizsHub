@@ -4,7 +4,7 @@
 - 🏠 I live in Pathum Thani, Thailand
 - 📖 I'm a sophomore student at SIT KMUTT
 - 📚 I'm also a senior student at Management , B.B.A. ,RU
-- 🔭 I’m looking for internship in Business Analyst
+- 🔭 I’m Business Analyst Internship (Superdev Co., Ltd)
 - 📫 contact me via **mookies2004@gmail.com**
 
 
