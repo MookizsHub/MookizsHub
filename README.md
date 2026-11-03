@@ -4,7 +4,7 @@
 - 🏠 I live in Pathum Thani, Thailand
 - 📖 I graduated from School of Information Technology, KMUTT
 - 📚 I graduated from Bachelor of Business Administration, Ramkhamhaeng University
-- 🔭 I am a Business Analyst at Superdev Co., Ltd
+- 🔭 I am a Junior Product Owner at Superdev Co., Ltd
 - 📫 contact me via **mookies2004@gmail.com**
 
 
